@@ -1,0 +1,9 @@
+pub mod clipping;
+pub mod color;
+pub mod framebuffer;
+pub mod math;
+pub mod model;
+pub mod renderer;
+pub mod scene;
+pub mod shaders;
+pub mod triangle;
